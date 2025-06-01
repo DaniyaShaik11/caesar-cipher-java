@@ -1,7 +1,7 @@
 # caesar-cipher-java
 # Caesar Cipher Encryption & Decryption Web App
 
-This is a **web-based Caesar Cipher encryption and decryption tool** built using **HTML, CSS, and JavaScript**. It allows users to encode and decode messages by shifting characters within a custom alphabet set.
+This is a **web-based Caesar Cipher encryption and decryption tool**. It allows users to encode and decode messages by shifting characters within a custom alphabet set.
 
 ##  Features
 
