@@ -18,13 +18,7 @@ This is a **web-based Caesar Cipher encryption and decryption tool**. It allows 
 
 - **HTML5** – Structure
 - **CSS3** – Styling (Custom UI, responsive layout)
-- **JavaScript (Vanilla)** – Cipher logic and DOM handling
-
----
-
-##  Preview
-
-> _(You can add screenshots here if you'd like. Just take a snapshot of the app running locally and upload it in your repo.)_
+- **JavaScript** – Cipher logic
 
 ---
 
